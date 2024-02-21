@@ -1,3 +1,9 @@
+#Feito por Matheus Henrique Lourenço Bernardo
+#Matricula 75
+#software
+#Repositório git : https://github.com/Matheus-Bernardo/C111---Analise-de-Dados/blob/Projetps/Aula1%20-%20collections/ExercicioProposto.py
+
+
 #Exercício 1
 
 top_5_times = ['Manchester City','Real Madrid','Bayer de Munique','Arsenal','Liverpool']
@@ -30,7 +36,7 @@ aluno ={
     'media':media
 }
 
-if(aluno['media'] > 50):
+if(aluno['media'] > 59):
     print("AP")
     aluno['situacao'] = "AP"
 else:
